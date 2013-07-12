@@ -10,7 +10,7 @@ namespace snowcrashNet
     {
         public void test()
         {
-            snowcrashCLR.Tester.test();
+            snowcrashCLR.SnowCrashCLR.test();
         }
     }
 }
